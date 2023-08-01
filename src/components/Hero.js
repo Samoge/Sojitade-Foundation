@@ -10,12 +10,12 @@ import "swiper/css/pagination";
 import "swiper/css/navigation";
 import "swiper/css/autoplay";
 import "../scss/swiper.scss";
-import image_1 from "../images/chair-1.jpg";
-import image_2 from "../images/chair-2.jpg";
-import image_3 from "../images/circ-acq.jpg";
-import image_4 from "../images/col-pet.jpg";
-import image_5 from "../images/hero.jpg";
-import image_6 from "../images/warm-wel.jpg";
+import image_1 from "../images/chair-1.png";
+import image_2 from "../images/chair-2.png";
+import image_3 from "../images/circ-acq.png";
+import image_4 from "../images/col-pet.png";
+import image_5 from "../images/hero.png";
+import image_6 from "../images/warm-wel.png";
 
 const Hero = () => {
   const images = [image_1, image_2, image_3, image_4, image_5, image_6];
